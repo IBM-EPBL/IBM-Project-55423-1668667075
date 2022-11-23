@@ -7,7 +7,7 @@
 
 ## Team Members:
 
-- Raakesh Kumar C | 2019504566
-- Sangamithra S | 2019504576
-- Meena Kaveri R | 2019504549
-- Sakkeel Magdum M | 2019504574
+- Sangeetha V
+- Indhumathi R
+- Abinaya  J
+- Mownika M
